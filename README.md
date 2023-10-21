@@ -1,6 +1,6 @@
 # Command-win
 
-A rust like api for c++ on windows to run commands.
+A r**t-like executing commands API for c++ on windows.
 
 ## Quick start
 
