@@ -1,6 +1,6 @@
 # Command-cpp
 
-A r**t-like executing commands API for c++ on windows.
+A r**t-like executing commands C++ API on windows.
 
 ## Quick start
 
