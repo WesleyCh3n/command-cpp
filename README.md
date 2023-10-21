@@ -1,4 +1,4 @@
-# Command-win
+# Command-cpp
 
 A r**t-like executing commands API for c++ on windows.
 
