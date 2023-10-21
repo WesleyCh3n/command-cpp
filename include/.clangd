@@ -1,7 +1,0 @@
-CompileFlags:
-  Add:
-    - -lstdc++fs
-    - -std=c++17
-    - -I..\include\
-    - -I..\build\_deps\fmt-src\include\
-    - -I..\build\_deps\spdlog-src\include\
